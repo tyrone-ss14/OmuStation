@@ -3717,3 +3717,11 @@ Entries:
         lobby art rotation!
   id: 478
   time: '2026-05-06T02:21:57.0000000+00:00'
+- author: Rainflies
+  changes:
+    - type: Add
+      message: >-
+        Armored Jamrock blazer & Armored aerostatic jacket for detectives, The
+        road to healing is a long one.
+  id: 479
+  time: '2026-05-06T02:25:44.0000000+00:00'
